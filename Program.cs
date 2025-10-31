@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace gestionefile
-{
+{ // commento di prova
     internal class Program
     {
         static void Main(string[] args)
